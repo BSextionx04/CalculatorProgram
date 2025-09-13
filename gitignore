@@ -1,0 +1,19 @@
+# Java
+*.class
+*.log
+*.ctxt
+.hs_err_pid*
+replay_pid*
+*.iml
+
+# Build tools
+/.gradle/
+/build/
+/out/
+/target/
+
+# IDEs
+/.idea/
+*.ipr
+*.iws
+.vscode/
